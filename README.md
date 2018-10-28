@@ -14,9 +14,9 @@ The Dataset contains 10,000 Yelp reviews from the customer. The following are th
 The purpose of this analysis is to apply sentiment analysis technique on the Yelp review dataset from the customers and predict whether the review is negative or positive. To do this task, we will be performing three predictive Machine Learning algorithm to build model. In the conclusion, we will identifying which model is best for sentiment reviews.</br></br>
 This dataset has been taken from Kaggle. You can find the dataset in the following link: https://www.kaggle.com/omkarsabnis/sentiment-analysis-on-the-yelp-reviews-dataset/data </br></br>
 The following steps will be followed for the analysis:</br>
-1. Importing the Dataset</br>
-2. Processing the dataset</br>
-3. Vectorization</br>
-4. Splitting into Train and Test models</br>
-5. Applying classification method</br>
-6. Conclusion</br>
+* Importing the Dataset</br>
+* Processing the dataset</br>
+* Vectorization</br>
+* Splitting into Train and Test models</br>
+* Applying classification method</br>
+* Conclusion</br>
