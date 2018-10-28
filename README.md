@@ -1,6 +1,6 @@
 # Sentiment-Analysis-on-Yelp-Reviews
 
-Dataset Description:
+<strong>Dataset Description:<strong><br>
 The Dataset contains 10,000 Yelp reviews from the customer. The following are the dataset attributes:
 business_id (ID for different business reviews)
 date (review posting date)
